@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Acerca de mi:
 🔭 Monitorista de Infrestructura y Ciberseguridad<br>🌱 Desarrollador Backend jr / java jr / js / phyton / swift / VBA<br>💬 Soporte tecnico<br>⚡ Desarrollador Front-End<br>🤝 Gusto de hacer y probar lo que me apasiona<br>
 
 
-## 🌐 Socials:
+## 🌐 Sociales:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Daniel Cabrera Cruz) 
 
 # 💻 Tech Stack:
