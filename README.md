@@ -1,5 +1,5 @@
 # 💫 Acerca de mi:
-🔭 Monitorista de Infrestructura y Ciberseguridad<br>🌱 Desarrollador Backend jr / java jr / js / phyton / swift / VBA<br>💬 Soporte tecnico<br>⚡ Desarrollador Front-End<br>🤝 Gusto de hacer y probar lo que me apasiona<br>
+🔭 Monitorista de Infrestructura y Ciberseguridad<br>🌱 Desarrollador Backend jr / java jr / js / phyton / swift / php<br>💬 Soporte tecnico<br>⚡ Desarrollador Front-End<br>🤝 Gusto de hacer y probar lo que me apasiona<br>
 
 
 ## 🌐 Sociales:
